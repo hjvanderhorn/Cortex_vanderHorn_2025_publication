@@ -15,6 +15,7 @@ Brain regions and states were visualized using: https://github.com/mingruixia/Br
 
 Raw data can be found in our fitbir repository (fitbir.nih.gov) under reference number FITBIR-STUDY0000339.
 
+January 7, 2025.
 H.J. van der Horn.
 Mayerlab, The Mind Research Network, Albuquerque, NM. U.S.A. 
 
