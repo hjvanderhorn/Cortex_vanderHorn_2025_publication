@@ -5,7 +5,7 @@ Trajectories of Intrinsic Connectivity One Year Post Pediatric Mild Traumatic Br
 
 For dynamic FC analyses, we used modified code based on https://github.com/juanitacabral/LEiDA.
 
-Note that functions from the Group ICA of fMRI toolbox (GIFT; https://github.com/trendscenter/gift) and SPM12 (https://github.com/spm/spm12) were used throughout the scripts as well. 
+Note that functions from the Group ICA of fMRI toolbox (GIFT; https://github.com/trendscenter/gift) and SPM12 (https://github.com/spm/spm12) were used throughout the MATLAB scripts as well. 
 
 Cohen's d effect sizes were computed using the computeCohen_d.m function (https://nl.mathworks.com/matlabcentral/fileexchange/62957-computecohen_d-x1-x2-varargin).
 
