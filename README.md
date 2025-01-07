@@ -7,6 +7,13 @@ For dynamic FC analyses, we used modified code based on https://github.com/juani
 
 Raw data can be found in our fitbir repository (fitbir.nih.gov) under reference number FITBIR-STUDY0000339.
 
+Note that functions from the Group ICA of fMRI toolbox (GIFT; https://github.com/trendscenter/gift) and SPM12 (https://github.com/spm/spm12) are used in the scripts as well. 
+Cohen's d effect sizes were computed using the computeCohen_d.m function (https://nl.mathworks.com/matlabcentral/fileexchange/62957-computecohen_d-x1-x2-varargin).
+
+Line plots were made using: https://nl.mathworks.com/matlabcentral/fileexchange/26311-raacampbell-shadederrorbar.
+
+Brain regions and states were visualized using: https://github.com/mingruixia/BrainNet-Viewer.
+
 H.J. van der Horn.
 Mayerlab, The Mind Research Network, Albuquerque, NM. U.S.A. 
 
